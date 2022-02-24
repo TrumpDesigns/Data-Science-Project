@@ -1,2 +1,2 @@
 # Data-Science-Project
-SERIES Of Data Analytic Activities
+ SERIES Of Data Analytic Activities
